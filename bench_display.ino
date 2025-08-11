@@ -10,7 +10,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 #define BUTTON_PIN 0
 
 const char* messages[] = {
-  "   Gem &     Pollux",
+  "   GEM         &        POLLUX",
   "1% better every day!",
   "Diamonds are made under pressure",
   "Mind over matter",
@@ -40,7 +40,8 @@ const char* messages[] = {
   "Commit and adapt",
   "Your pace, your race",
   "Simplicity wins",
-  "Earn it daily"
+  "Earn it daily" ,
+  "Im rooting for you"
 };
 
 
